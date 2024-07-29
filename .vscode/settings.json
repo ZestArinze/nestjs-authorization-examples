@@ -1,0 +1,16 @@
+{
+	"javascript.preferences.importModuleSpecifier": "relative",
+	"typescript.preferences.importModuleSpecifier": "relative",
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.organizeImports": "explicit"
+	},
+	"editor.formatOnSaveMode": "modifications",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"files.autoSave": "onFocusChange",
+	"gitlens.codeLens.enabled": true,
+	"gitlens.currentLine.enabled": true,
+	"editor.guides.highlightActiveIndentation": true
+}
